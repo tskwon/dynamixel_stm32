@@ -1,1 +1,1 @@
-"# control Dynamixel XL330 motor using nucleo-f429ZI"
+# control Dynamixel XL330 motor using nucleo-f429ZI
